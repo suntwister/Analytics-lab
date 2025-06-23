@@ -28,6 +28,6 @@ SELECT name,department
 FROM employees
 WHERE gender = 'Female' and department = 'HR';
 
-SELECT name
+SELECT name,salary
 FROM employees
 WHERE salary > 65000;

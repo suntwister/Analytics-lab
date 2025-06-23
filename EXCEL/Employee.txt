@@ -1,0 +1,6 @@
+EmployeeID	FirstName	LastName	Age	Gender	Department	Salary
+101	Alice	Jones	29	Female	Sales	65000
+102	Bob	Smith	45	Male	HR	72000
+103	Carla	Vega	33	Female	Finance	80000
+104	David	Lee	41	Male	Sales	58000
+105	Emily	Zhou	37	Female	HR	70000
