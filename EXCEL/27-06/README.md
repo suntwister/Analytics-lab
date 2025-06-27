@@ -26,7 +26,7 @@ This workbook contains:
 
 ### ✅ Final Lookup Result with Net Salary
 
-![VLOOKUP Screenshot 2](vlookup%20124550%20.png)
+![VLOOKUP Screenshot 2](vlookup%20124550.png)
 
 
 
