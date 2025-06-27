@@ -1,4 +1,4 @@
-# analytics-lab
+# Analytics-lab
 ---
 
 ## 👨🏽‍💻 About Me
