@@ -22,11 +22,11 @@ This workbook contains:
 
 ### ✅ VLOOKUP Setup View
 
-![VLOOKUP Screenshot 1](vlookup_06-27.png)
+![VLOOKUP Screenshot 1](vlookup 06-27.png)
 
 ### ✅ Final Lookup Result with Net Salary
 
-![VLOOKUP Screenshot 2](vlookup_124550.png)
+![VLOOKUP Screenshot 2](vlookup 124550.png)
 
 
 
