@@ -20,3 +20,4 @@ This workbook contains:
   
 ## 🧰 Image
 <img width="388" alt="vlookup 06-27 " src="https://github.com/user-attachments/assets/0e025224-c243-493b-a636-baa525083fa7" />
+![image](https://github.com/user-attachments/assets/2f2ccc92-ed52-431c-a2a8-5e20ed908d88)
