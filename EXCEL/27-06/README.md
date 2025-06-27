@@ -20,5 +20,14 @@ This workbook contains:
   
 ## 🧰 Image
 <img width="388" alt="vlookup 06-27 " src="https://github.com/user-attachments/assets/0e025224-c243-493b-a636-baa525083fa7" />
+## 📷 Screenshots
+
+#### ✅ VLOOKUP Setup View
+
+![VLOOKUP Screenshot 1](vlookup%2006-27%20.png)
+
+#### ✅ Final Lookup Result with Net Salary
+
+![VLOOKUP Screenshot 2](vlookup%20124550.png)
 
 
