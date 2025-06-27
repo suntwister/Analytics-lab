@@ -20,5 +20,5 @@ This workbook contains:
   
 ## 🧰 Image
 <img width="388" alt="vlookup 06-27 " src="https://github.com/user-attachments/assets/0e025224-c243-493b-a636-baa525083fa7" />
-![vlookup 124550](https://github.com/user-attachments/assets/75d46075-e82f-4bee-aae1-ec72d2f17410)
+
 
