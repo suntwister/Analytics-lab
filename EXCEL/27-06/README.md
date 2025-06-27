@@ -18,16 +18,15 @@ This workbook contains:
 - Microsoft Excel 2019 (Professional Plus)
 - `VLOOKUP` instead of `XLOOKUP` due to version limitations
   
-## 🧰 Image
-<img width="388" alt="vlookup 06-27 " src="https://github.com/user-attachments/assets/0e025224-c243-493b-a636-baa525083fa7" />
 ## 📷 Screenshots
 
-#### ✅ VLOOKUP Setup View
+### ✅ VLOOKUP Setup View
 
-![VLOOKUP Screenshot 1](vlookup%2006-27%20.png)
+![VLOOKUP Screenshot 1](vlookup_06-27.png)
 
-#### ✅ Final Lookup Result with Net Salary
+### ✅ Final Lookup Result with Net Salary
 
-![VLOOKUP Screenshot 2](vlookup%20124550.png)
+![VLOOKUP Screenshot 2](vlookup_124550.png)
+
 
 
