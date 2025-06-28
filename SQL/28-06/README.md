@@ -8,7 +8,7 @@
 
 ![Query Screenshot 1](screenshot1.png)
 
-![Query Screenshot 2](screenshot2.png)
+![Query Screenshot 2](28-06/screenshot2.png)
 
 
 
