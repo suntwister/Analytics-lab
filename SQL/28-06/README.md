@@ -6,9 +6,9 @@
   
 ## 📷 Screenshots
 
-![QUERY Screenshot 1](screenshot%201%20.png)
+![Query Screenshot 1](screenshot1.png)
 
-![QUERY Screenshot 2](screenshot%202.png)
+![Query Screenshot 2](screenshot2.png)
 
 
 
