@@ -63,3 +63,12 @@ GROUP BY vehicle_id
 ORDER BY num_deliveries DESC;
 
 
+-- Drivers rank by deliveries
+SELECT 
+    driver_id,
+    COUNT(*) AS total_deliveries,
+    RANK() OVER (ORDER BY COUNT(*) DESC) AS driver_rank
+FROM Deliveries
+GROUP BY driver_id;
+
+
