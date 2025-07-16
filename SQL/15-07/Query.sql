@@ -54,3 +54,12 @@ FROM Deliveries
 GROUP BY driver_id
 ORDER BY total_deliveries DESC;
 
+-- Vehicle trip count
+SELECT 
+    vehicle_id,
+    COUNT(*) AS num_deliveries
+FROM Deliveries
+GROUP BY vehicle_id
+ORDER BY num_deliveries DESC;
+
+
