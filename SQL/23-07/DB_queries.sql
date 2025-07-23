@@ -1,7 +1,12 @@
 -- 1 Total fuel consumption by region
+
+SELECT * FROM vehicles;
+SELECT * FROM fuel_logs;
+
 SELECT 
-    v.region,
-    SUM(f.liters_consumed) AS total_liters_used
-FROM Fuel_Logs f
-JOIN Vehicles v ON f.vehicle_id = v.vehicle_id
+	v.region,
+    sum(f.liters_consumed) AS Total_fuel
+FROM vehicles v
+JOIN fuel_logs f ON v.vehicle_id = f.vehicle_id
 GROUP BY v.region;
+
