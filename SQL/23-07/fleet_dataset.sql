@@ -22,7 +22,7 @@ CREATE TABLE Fuel_logs (
 CREATE TABLE Daily_Consignments (
     consignment_id INT AUTO_INCREMENT PRIMARY KEY,
     vehicle_id INT,
-    assignment_date DATE,
+    consignment_date DATE,
     route VARCHAR(100),
     status VARCHAR(20),
     distance_km INT,
@@ -94,7 +94,7 @@ INSERT INTO Fuel_Logs (vehicle_id, fuel_date, liters_consumed, fuel_cost) VALUES
 (15, '2025-07-21', 18.3, 16470), 
 (15, '2025-07-22', 20.2, 18180);
 
-INSERT INTO Daily_Assignments (vehicle_id, assignment_date, route, status, distance_km, deliveries) VALUES
+INSERT INTO daily_consignments (vehicle_id, consignment_date, route, status, distance_km, deliveries) VALUES
 (1, '2025-07-20', 'Lekki - Ikeja', 'Completed', 45, 12),
 (1, '2025-07-21', 'Yaba - VI', 'Completed', 30, 9), 
 (1, '2025-07-22', 'Ikeja - Apapa', 'Completed', 38, 10),
